@@ -1,0 +1,109 @@
+body {
+    background: #131b21;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+svg#flower-frame {
+    height: 90vh;
+    width: 100%;
+}
+
+
+
+#Footer_group_1_,
+[id^=PinkFlowerGroup],
+[id^=BaseGroup] path,
+[id^=LeafGroup] path,
+path[id^=Stroke],
+g[id^=BudGroup] g[id^=BudGroup] g[id^=Bud],
+#Bud8_1_,
+#Bud10_1_,
+#Bud23_1_,
+#Bud26_1_,
+[id^=Dots],
+[id^=Flourish] {
+    visibility: hidden;
+}
+
+.st0 {
+    fill: #FFFFFF;
+}
+
+.st1 {
+    fill: none;
+    stroke: #215F7E;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.st2 {
+    fill: #64C1BB;
+}
+
+.st3 {
+    fill: none;
+    stroke: #21A5AF;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.st4 {
+    fill: none;
+    stroke: #21A5AF;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.st5 {
+    fill: #FCD8C5;
+}
+
+.st6 {
+    fill: #21A5AF;
+}
+
+.st7 {
+    fill: none;
+    stroke: #21A5AF;
+    stroke-width: 4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.st8 {
+    fill: #F7A998;
+}
+
+.st9 {
+    fill: #F3CE7F;
+}
+
+.st10 {
+    fill: #14A4AE;
+}
+
+.st11 {
+    fill: #61BFBA;
+}
+
+.st12 {
+    fill: #FDD9C6;
+}
+
+.st13 {
+    fill: none;
+    stroke: #FFFFFF;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.st14 {
+    display: none;
+    fill: #FFFFFF;
+}
